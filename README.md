@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **backend projects**
 
-- 🤝 I’m looking for help with **Full Stack Developer Job**
+- 🤝 I’m looking for **Full Stack Developer Job**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lucky.onrender.com](https://portfolio-lucky.onrender.com)
 
